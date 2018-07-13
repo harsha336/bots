@@ -30,16 +30,19 @@ steps:
      your changes (if needed).
 3. Obtain, fill and sign the [contribution agreement document][contribute].
    Then fax a signed copy to (+34) 93 413 77 21 or email a scanned copy of a
-   signed agreement to pm-contributions[^1]
+   signed agreement to pm-contributions<sup>1</sup>
 4. Make a pull request. If your patch is not getting reviewed you can ask for
-   it by sending an email to pm-tools[^1].
+   it by sending an email to pm-tools<sup>1</sup>.
 
 [issues]: https://github.com/bsc-pm/bots/issues
 [open-issue]: https://github.com/bsc-pm/bots/issues/new
 [coding]: doc/coding-guidelines.md
 [commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-[contribute]: doc/contribution-agreement-bots.pdf
-[^1]: All email addreses are hosted at the bsc.es domain.
+[contribute]: doc/ca-bots.pdf
+
+Notes
+--- 
+<sup>1</sup>: All email addreses are hosted at the bsc.es domain.
 
 
 
