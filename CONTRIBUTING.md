@@ -42,7 +42,7 @@ steps:
 
 Notes
 --- 
-<sup>1</sup>: All email addreses are hosted at the bsc.es domain.
+<sup>1</sup> All email addreses are hosted at the bsc.es domain.
 
 
 
